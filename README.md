@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
@@ -174,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Iterator
 |  |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
