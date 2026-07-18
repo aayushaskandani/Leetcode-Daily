@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0785-is-graph-bipartite) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
