@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0051-n-queens) |
