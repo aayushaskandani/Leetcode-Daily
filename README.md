@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0051-n-queens) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Bucket Sort
 |  |
