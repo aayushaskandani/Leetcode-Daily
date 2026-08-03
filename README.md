@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0133-clone-graph) |
+| [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0312-burst-balloons) |
+| [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1046-last-stone-weight) |
 ## Data Stream
@@ -266,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -289,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
