@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
