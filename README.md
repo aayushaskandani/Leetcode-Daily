@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
@@ -310,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
