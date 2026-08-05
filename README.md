@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1046-last-stone-weight) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
