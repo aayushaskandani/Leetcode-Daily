@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0733-flood-fill](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0977-squares-of-a-sorted-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1046-last-stone-weight) |
