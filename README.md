@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1046-last-stone-weight) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0312-burst-balloons) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
