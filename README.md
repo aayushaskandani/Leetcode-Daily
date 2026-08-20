@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
