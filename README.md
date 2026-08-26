@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
