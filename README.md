@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1584-min-cost-to-connect-all-points](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1971-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
@@ -393,4 +396,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/0056-merge-intervals) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/aayushaskandani/Leetcode-Daily/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
